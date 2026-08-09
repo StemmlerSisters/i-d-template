@@ -6,3 +6,4 @@ rfc-tidy
 svgcheck
 toml
 xml2rfc
+idna>=3.15 # not directly required, pinned by Snyk to avoid a vulnerability
